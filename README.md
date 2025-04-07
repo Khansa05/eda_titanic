@@ -1,4 +1,4 @@
-# eda_titanic
+# titanic_eda
 An Exploratory Data Analysis (EDA) of the Titanic dataset, focusing on data cleaning, missing value handling, outlier detection, and visualizations.
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 This repository contains the code and analysis for performing Exploratory Data Analysis (EDA) on the Titanic dataset. The goal of this analysis is to gain insights into the dataset, clean the data, handle missing values, detect outliers, and create visualizations for better understanding.
